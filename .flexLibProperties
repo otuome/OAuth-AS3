@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses>
+    <classEntry path="org.iotashan.utils.OAuthUtil"/>
+    <classEntry path="org.iotashan.utils.URLEncoding"/>
+    <classEntry path="org.iotashan.oauth.OAuthToken"/>
+    <classEntry path="org.iotashan.oauth.IOAuthSignatureMethod"/>
+    <classEntry path="org.iotashan.oauth.OAuthRequest"/>
+    <classEntry path="org.iotashan.oauth.OAuthConsumer"/>
+    <classEntry path="org.iotashan.oauth.OAuthSignatureMethod_HMAC_SHA1"/>
+    <classEntry path="org.iotashan.oauth.OAuthSignatureMethod_PLAINTEXT"/>
+    <classEntry path="org.flaircode.oauth.IOAuth"/>
+    <classEntry path="org.flaircode.oauth.OAuth"/>
+    <classEntry path="org.flaircode.oauth.OAuthLoader"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
