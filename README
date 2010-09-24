@@ -1,0 +1,5 @@
+This repository is a fork that combines the oauth-as3 library with the OAuth utils published by Soenke Rohde into a Flex library project.
+
+For more info:
+http://code.google.com/p/oauth-as3/
+http://github.com/srohde/OAuth
